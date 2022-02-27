@@ -1,7 +1,11 @@
-## Hi, I'm Ismael Laet 👋
-I am studying Systems Analysis and Development, always looking to learn more and more! 👨‍🎓
+<h1 align="center"> Hi, I'm Ismael Laet 👋</h1>
+<h4 align="center">I am studying Systems Analysis and Development, always looking to learn more and more! 👨‍🎓</h4>
+<p align="center">
+  <a href="https://www.instagram.com/_ismaelspirit/">
+    <img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ismaelspirit/) 
 ## 
 [![Ismaellaet's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismaellaet&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000&icon_color=FF0000)](https://github.com/ismaellaet/github-readme-stats)
 ## 
