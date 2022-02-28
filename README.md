@@ -1,9 +1,13 @@
 <h1 align="center"> Hi, I'm Ismael Laet 👋</h1>
 <h4 align="center">I am studying Systems Analysis and Development, always looking to learn more and more! 👨‍🎓</h4>
 <p align="center">
+  <a href="https://www.linkedin.com/in/ismaellaet/">
+    <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
   <a href="https://www.instagram.com/_ismaelspirit/">
     <img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+  
 </p>
 
 ## 
