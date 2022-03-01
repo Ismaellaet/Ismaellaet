@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Ismael Laet 👋</h1>
+<h1 align="center"> Hi, I'm Ismael Laet <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" style="max-width: 100%;"></h1>
 <h4 align="center">I am studying Systems Analysis and Development, always looking to learn more and more! 👨‍🎓</h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/ismaellaet/">
