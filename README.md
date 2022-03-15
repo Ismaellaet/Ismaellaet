@@ -11,7 +11,7 @@
 </p>
 
 ## 
-[![Ismaellaet's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismaellaet&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000&icon_color=FF0000)](https://github.com/ismaellaet/github-readme-stats)
+[![Ismaellaet's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismaellaet&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000&icon_color=FF0000&include_all_commits=true&count_private=true)](https://github.com/ismaellaet/github-readme-stats)
 ## 
 ### ⚡ Technologies that I use
 <div style="display: inline_block"><br>
